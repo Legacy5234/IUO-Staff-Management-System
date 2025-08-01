@@ -1,7 +1,7 @@
 
 # 🏫 IUO Staff Management System
 
-![hero image](hero_staff.jpg)
+![hero image](hero1.jpg)
 
 ### ⚠️ **Disclaimer**
 > 🚫 **Source Code Not Publicly Available**  
