@@ -85,3 +85,16 @@ This digital platform provides a centralized interface for managing records, aut
 
 ---
 
+---
+
+## 🤝 Let’s Collaborate
+
+Interested in using or customizing this system for your institution?
+
+📧 Reach out at **tariofiyoushell@gmail.com**  
+📱 Call/WhatsApp: **+234 702 610 8529**  
+🌐 [View Portfolio](https://legacy5234.github.io/My-Portfolio/)  
+🐙 [GitHub](https://github.com/Legacy5234)
+
+---
+
